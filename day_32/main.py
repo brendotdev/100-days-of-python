@@ -65,3 +65,4 @@ right_button.grid(row=1, column=1)
 next_card()
 
 window.mainloop()
+# This code implements a flashcard application using Tkinter.
