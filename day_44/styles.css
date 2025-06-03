@@ -1,0 +1,39 @@
+/* Element selector */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    color: #333;
+}
+
+/* Class selector */
+.heading {
+    color: #007acc;
+    text-align: center;
+}
+
+/* ID selector */
+#intro {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+/* More classes */
+.profile-pic {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.section-title {
+    border-bottom: 2px solid #007acc;
+    padding-bottom: 5px;
+    margin-top: 40px;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+    padding: 10px;
+}
