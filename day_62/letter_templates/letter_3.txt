@@ -1,0 +1,6 @@
+Hey [NAME],
+
+You made it another year — congrats! Celebrate big and stay awesome.
+
+With love,
+Your Python Script
